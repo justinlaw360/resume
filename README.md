@@ -4,7 +4,7 @@ Justin Law holds a Master of Information System from Charles Sturt University (c
 
 You can find more about him in Linkedin: www.linkedin.com/in/justinlaw360 <br>
 And his recent projects in Github: https://github.com/justinlaw360 <br>
-And the Machine Learning specialization certificate from Stanford University/DeepLearning.AI at the following URL:https://www.coursera.org/account/accomplishments/specialization/certificate/FT9C5ZK5QG7C.
+And the Machine Learning specialization certificate from Stanford University/DeepLearning.AI at: https://www.coursera.org/account/accomplishments/specialization/certificate/FT9C5ZK5QG7C.
 
 ## Job history
 Justin Law has over 20 years of experience in project management for various security projects, including AI application. Here is a summary of his career history:
