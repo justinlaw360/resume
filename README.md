@@ -13,6 +13,8 @@ Justin Law has over 20 years of experience in project management for various sec
 * Responsible for security operations of critical infrastructure, including threat intelligence analysis, incident response, and cloud security.
 * Develop security operations standards and guidelines, including AI security and API security.
 * Conduct vulnerability assessments and patch management.
+* Work closly with Legal department to execute DSAR in GDPR
+* Comply with international and industrial standards, ISO27001/2, CIS, NIST, PDPO.
 ### Information Security Manager at Nan Fung Group (Jul 2020 - Jan 2023):
 * Directly reported to the CIO and led the Information Security section.
 * Responsible for IT security and risk management for Nan Fung Group and its portfolio companies.
@@ -33,7 +35,7 @@ Justin Law has over 20 years of experience in project management for various sec
 * Conducted risk assessments and vulnerability testing.
 * Managed credentials with CyberArk Privileged Account Management.
 ### Information Technology Manager at The University of Hong Kong (Jan 2012 - Jan 2017):
-* Led a security team and developed IT security policies based on ISO27001/2.
+* Led a security team and developed IT security policies based on ISO27001/2, CIS, NIST, PDPO.
 * Conducted risk assessments and organized security awareness trainings.
 * Managed system and network security and performed vulnerability testing.
 ## Security Officer at Credit Agricole Corporate & Investment Bank (Jun 2011 - Jan 2012):
@@ -41,12 +43,12 @@ Justin Law has over 20 years of experience in project management for various sec
 * Conducted compliance checks and enforced security standards and policies.
 * Provided support for VPN and data center security.
 ### System Engineer (Infrastructure Security) at The Hong Kong Jockey Club (Jan 2008 - May 2011):
-* Administered network security devices, firewalls, IPS, VPN, and web content filtering systems.
+* Administered network security devices, firewalls (Juniper, CheckPoint, Cisco, Radware), IPS, VPN, and web content filtering systems.
 * Reviewed system and network designs to align with security standards.
 * Participated in external projects for sports lotteries and implemented security solutions.
 ### System Specialist (IT Security Service) at PCCW Solutions (Aug 2006 - Aug 2007):
 * Managed IT security devices for PCCW group.
-* Implemented firewalls, SSL VPN, and conducted OS hardening reviews.
+* Administrate firewalls (Juniper, CheckPoint, Cisco), SSL/IPSec VPN, and conducted Windows & U/Linux hardening reviews.
 * Participated in various security projects and provided training.
 
 
