@@ -2,9 +2,9 @@
 
 Justin Law holds a Master of Information System from Charles Sturt University (completed in 2005) and a Bachelor of Science in Applied Computing from the Open University of Hong Kong (completed in 2002). He has several licenses and certifications, including Machine Learning from Stanford University/DeepLearning.AI, IT Service Management Foundation, Certified Information System Auditor (ISACA), Project Management Professional (PMI), Certified Information Systems Security Professional (ISC2), and Project in Controlled Environments (AXELOS).
 
-You can find Justin Law's Machine Learning specialization certificate from Stanford University/DeepLearning.AI at the following URL: https://www.coursera.org/account/accomplishments/specialization/certificate/FT9C5ZK5QG7C. <br>
-You may find more information about hin in Linkedin: ![image](https://github.com/justinlaw360/resume/assets/4946026/d5508c56-fac4-4fb4-ab09-99f2e29ea0ef) www.linkedin.com/in/justinlaw360 <br>
-And his recent projects in Github: https://github.com/justinlaw360 to understand more about his career history and knowledge.
+You can find more about him in Linkedin: www.linkedin.com/in/justinlaw360 <br>
+And his recent projects in Github: https://github.com/justinlaw360 <br>
+And the Machine Learning specialization certificate from Stanford University/DeepLearning.AI at the following URL:https://www.coursera.org/account/accomplishments/specialization/certificate/FT9C5ZK5QG7C.
 
 ## Job history
 Justin Law has over 20 years of experience in project management for various security projects, including AI application. Here is a summary of his career history:
