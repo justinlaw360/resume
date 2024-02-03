@@ -25,7 +25,7 @@ Justin Law has over 20 years of experience in project management for various sec
 * Implemented IT projects, provided helpdesk support, and enforced security controls.
 * Provided IT services for over 300 affiliated kindergartens, schools, and centers.
 * Developed IT security policies based on ISO and NIST frameworks.
-## Information Security Manager at Lingnan University (Dec 2017 - Sep 2018):
+### Information Security Manager at Lingnan University (Dec 2017 - Sep 2018):
 * Led the IT security section and developed security policies and guidelines.
 * Established security incident handling procedures and performed risk assessments.
 * Implemented SIEM (Splunk) for network and systems security visualization.
@@ -38,7 +38,7 @@ Justin Law has over 20 years of experience in project management for various sec
 * Led a security team and developed IT security policies based on ISO27001/2, CIS, NIST, PDPO.
 * Conducted risk assessments and organized security awareness trainings.
 * Managed system and network security and performed vulnerability testing.
-## Security Officer at Credit Agricole Corporate & Investment Bank (Jun 2011 - Jan 2012):
+### Security Officer at Credit Agricole Corporate & Investment Bank (Jun 2011 - Jan 2012):
 * Responsible for IT security in the Hong Kong branch.
 * Conducted compliance checks and enforced security standards and policies.
 * Provided support for VPN and data center security.
